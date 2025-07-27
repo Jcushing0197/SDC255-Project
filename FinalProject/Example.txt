@@ -1,0 +1,4 @@
+This is an example file for reading.
+It contains multiple lines of text.
+This class is cool.
+Dev-C++ is fun!
